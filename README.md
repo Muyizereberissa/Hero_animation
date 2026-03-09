@@ -2,7 +2,7 @@
 ### Project Overview
 
 Kigali Trips is a simple Flutter application created to demonstrate the use of Hero Animation in Flutter.
-The app displays a list of travel destinations (trips). When the user taps on a trip card, the app navigates to a details screen, and the image smoothly transitions from the list view to the detail page using Hero animation.
+The app displays a list of travel destinations. When the user taps on a trip card, the app navigates to a details screen, and the image smoothly transitions from the list view to the detail page using Hero animation.
 
 This animation creates a visually appealing effect where the selected image appears to expand seamlessly into the next screen, improving the user experience and making navigation feel natural.
 
