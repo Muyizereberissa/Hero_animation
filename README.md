@@ -1,4 +1,4 @@
-## Kigali Trips – Flutter Hero Animation 
+# Kigali Trips – Flutter Hero Animation 
 ### Project Overview
 
 Kigali Trips is a simple Flutter application created to demonstrate the use of Hero Animation in Flutter.
